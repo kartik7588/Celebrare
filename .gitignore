@@ -1,0 +1,12 @@
+node_modules/
+dist/
+coverage/
+tmp/
+output/
+.impeccable/
+.npm-cache/
+*.local
+.env*
+!.env.example
+RECORDING_GUIDE.md
+SUBMISSION_CHECKLIST.md
